@@ -1,4 +1,3 @@
-
 # Hostel Management System 🏠
 
 A web-based application built using **PHP, MySQL, HTML, CSS, and JavaScript** to simplify hostel operations like student registration, room allocation, attendance tracking, and leaving request approvals.
@@ -19,7 +18,7 @@ A web-based application built using **PHP, MySQL, HTML, CSS, and JavaScript** to
 - **Tools:** XAMPP / WAMP, phpMyAdmin  
 
 ## Download
-[📦 Download Hostel Management System (ZIP)]((https://drive.google.com/file/d/1quSfqQRSbW0-u8K9mdzk4wCDkaThZf83/view?usp=sharing))
+[📦 Download Hostel Management System (ZIP)](https://drive.google.com/uc?id=1quSfqQRSbW0-u8K9mdzk4wCDkaThZf83&export=download)
 
 ## How to Run
 1. Download and extract the ZIP file.  
@@ -32,5 +31,5 @@ A web-based application built using **PHP, MySQL, HTML, CSS, and JavaScript** to
 **Name:** Tejasvini Vilas Shelar  
 **Role:** Developer | Web Development Enthusiast  
 **Email:** tejasvinishelar59@gmail.com  
-**LinkedIn:** [{www.linkedin.com/in/tejasvini-shelar-7b0b15348]({www.linkedin.com/in/tejasvini-shelar-7b0b15348)  
-**GitHub:** [github.com/Tejas-9016]((https://github.com/Tejas-9016))  
+**LinkedIn:** [www.linkedin.com/in/tejasvini-shelar-7b0b15348](https://www.linkedin.com/in/tejasvini-shelar-7b0b15348)  
+**GitHub:** [github.com/Tejas-9016](https://github.com/Tejas-9016)  
